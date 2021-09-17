@@ -1,0 +1,53 @@
+.App {
+  font-family: sans-serif;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+}
+.title {
+  padding-top: 100px;
+}
+.Table1 {
+  width: 30%;
+}
+.Table2 {
+  width: 25%;
+}
+.Table3 {
+  width: 25%;
+}
+
+table,
+tr,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+.MentorList {
+  position: absolute;
+  top: 80px;
+  left: 30px;
+}
+.AllStudentList {
+  position: absolute;
+  left: 500px;
+  bottom: 150px;
+}
+.StudentList {
+  position: absolute;
+
+  left: 900px;
+  top: 100px;
+}
+
+.Myform {
+  position: relative;
+  left: 40px;
+  top: 50px;
+  width: 50%;
+}
